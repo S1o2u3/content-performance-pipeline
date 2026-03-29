@@ -4,7 +4,7 @@ import os
 from dotenv import load_dotenv
 
 load_dotenv()
-API_KEY = os.getenv("AIzaSyCLKgZjXnKZHL3Hte8W0jbr-IpAEbpyv7w")
+API_KEY = os.getenv("YOUTUBE_API_KEY")
 
 CHANNELS = [
     "UCBcRF18a7Qf58cCRy5xuWwQ",
