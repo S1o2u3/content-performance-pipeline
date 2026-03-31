@@ -16,9 +16,28 @@ CHANNELS = [
     "UCeiYXex_fwgYDonaTcSIk6w",
     "UCq-Fj5jknLsUf-MWSy4_brA",
     "UCbmNph6atAoGfqLoCL_duAg",
-    "UC0RhatS1pyxInC00YKjjBqQ"
+    "UC0RhatS1pyxInC00YKjjBqQ",
+    "UCsvn_Po0SmunchJYtttggZg",
+    "UCnUYZLuoy1rq1aVMwx4aTzw",
+    "UCXuqSBlHAE6Xw-yeJA0Tunw",
+    "UCsooa4yRKGN_zEE8iknghZA",
+    "UC9-y-6csu5WGm29I7JiwpnA",
+    "UCHnyfMqiRRG1u-2MsSQLbXA",
+    "UCiGm_E4ZwYSHV3bcW1pnSeQ",
+    "UCbmNph6atAoGfqLoCL_duAg",
+    "UC295-Dw4tzbAdAmzeox8_Aw",
+    "UCnUYZLuoy1rq1aVMwx4aTzw",
+    "UCdC0An4ZPNr_YiFiYoVbwaw",
+    "UC0RhatS1pyxInC00YKjjBqQ",
+    "UCJXGnMr6J0gLd1cDKoxynxQ",
+    "UCVHdiIjxT0TYSMOq0-xYCXQ",
+    "UC8butISFwT-Wl7EV0hUK0BQ",
+    "UCo8bcnLyZH8tBIH9V1mLgqQ",
+    "UCnUYZLuoy1rq1aVMwx4aTzw",
+    "UCddiUEpeqJcYeBxX1IVBKvQ",
+    "UC3yT9Gh_CzjKh4HZLPAVP-A",
+    "UCGbshXdMAvBrGFEEBNI_0YA"
 ]
-
 def fetch_videos(channel_id):
     url = "https://www.googleapis.com/youtube/v3/search"
     params = {
